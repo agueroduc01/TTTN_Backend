@@ -1,0 +1,9 @@
+export { Assignments as AssignmentsEntity } from "./assignment.entity";
+export { Evidences as EvidencesEntity } from "./evidences.entity";
+export { Partners as PartnersEntity } from "./partners.entity";
+export { Reports as ReportsEntity } from "./reports.entity";
+export { Role as RoleEntity } from "./role.entity";
+export { Trips as TripsEntity } from "./trips.entity";
+export { Users as UserEntity } from "./users.entity";
+export { Department as DepartmentEntity } from "./department.entity";
+export { Expense as ExpenseEntity } from "./expenses.entity";
